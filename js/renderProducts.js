@@ -9,7 +9,7 @@ async function getProducts() {
     const response = await fetch('./js/products.json');
     // Парсим данные из JSON формата в JS
     const productsArray = await response.json();
-    // Запускаем ф-ю рендера (отображения товаров)
+    // Запускаем функцию рендера (отображения товаров)
 	renderProducts(productsArray);
 }
 

@@ -17,7 +17,7 @@ window.addEventListener('click', function (event) {
 			itemsInBox: card.querySelector('[data-items-in-box]').innerText,
 			weight: card.querySelector('.price__weight').innerText,
 			price: card.querySelector('.price__currency').innerText,
-			counter: card.querySelector('[data-counter]').innerText,
+			counter: card.querySelector('[data-counter]').innerText
 		};
 
 		// Проверять если ли уже такой товар в корзине

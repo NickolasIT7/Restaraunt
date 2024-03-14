@@ -1,0 +1,34 @@
+[
+	{
+		"id": 1,
+		"title": "Цезарь с курицей",
+		"itemsInBox": 1,
+		"weight": 170,
+		"price": 350,
+		"imgSrc": "Cezar with chiken.jpg"
+	},
+	{
+		"id": 2,
+		"title": "Греческий салад",
+		"itemsInBox": 1,
+		"weight": 180,
+		"price": 320,
+		"imgSrc": "Greek salad.jpg"
+	},
+	{
+		"id": 3,
+		"title": "Салат с лососем и авокадо",
+		"itemsInBox": 1,
+		"weight": 190,
+		"price": 430,
+		"imgSrc": "salad with avokado.jpg"
+	},
+	{
+		"id": 4,
+		"title": "Паста",
+		"itemsInBox": 1,
+		"weight": 330,
+		"price": 400,
+		"imgSrc": "pasta.jpg"
+	}
+]
